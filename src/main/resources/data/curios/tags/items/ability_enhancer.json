@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "curiosabilityaddon:probability_lens",
+    "curiosabilityaddon:combat_charm",
+    "curiosabilityaddon:harvest_charm",
+    "curiosabilityaddon:treasure_charm",
+    "curiosabilityaddon:vitality_charm",
+    "curiosabilityaddon:agility_charm"
+  ]
+}

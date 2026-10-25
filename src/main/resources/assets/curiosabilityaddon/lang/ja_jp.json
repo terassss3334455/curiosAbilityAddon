@@ -1,0 +1,16 @@
+{
+  "itemGroup.curiosabilityaddon": "能力強化アイテム",
+  "item.curiosabilityaddon.probability_lens": "幸運増幅レンズ",
+  "tooltip.curiosabilityaddon.probability_lens": "装備中、本体MODの確率発動能力の成功率を一律30ポイント上げる。",
+  "item.curiosabilityaddon.combat_charm": "戦技の護符",
+  "tooltip.curiosabilityaddon.combat_charm": "装備中、会心・回避・自動反撃の成功率を20ポイント上げ、攻撃力上昇Iを得る。",
+  "item.curiosabilityaddon.harvest_charm": "豊穣の護符",
+  "tooltip.curiosabilityaddon.harvest_charm": "装備中、作物成長と草原の幸運の成功率を25ポイント上げ、採掘速度上昇Iと幸運Iを得る。",
+  "item.curiosabilityaddon.treasure_charm": "宝運の護符",
+  "tooltip.curiosabilityaddon.treasure_charm": "装備中、ドロップ複製と無償の魔術の成功率を25ポイント上げ、幸運IIを得る。",
+  "item.curiosabilityaddon.vitality_charm": "生命の護符",
+  "tooltip.curiosabilityaddon.vitality_charm": "装備中、再生能力Iと耐性Iを得る。",
+  "item.curiosabilityaddon.agility_charm": "俊敏の護符",
+  "tooltip.curiosabilityaddon.agility_charm": "装備中、移動速度上昇IIと跳躍力上昇Iを得る。",
+  "curios.identifier.ability_enhancer": "能力強化スロット"
+}

@@ -1,0 +1,16 @@
+{
+  "itemGroup.curiosabilityaddon": "Ability Enhancers",
+  "item.curiosabilityaddon.probability_lens": "Luck Amplifier Lens",
+  "tooltip.curiosabilityaddon.probability_lens": "While equipped, increases every built-in chance-based ability by 30 percentage points.",
+  "item.curiosabilityaddon.combat_charm": "Combat Charm",
+  "tooltip.curiosabilityaddon.combat_charm": "While equipped, boosts critical, dodge, and counter chances by 20 points and grants Strength I.",
+  "item.curiosabilityaddon.harvest_charm": "Harvest Charm",
+  "tooltip.curiosabilityaddon.harvest_charm": "While equipped, boosts crop growth and grass mineral chances by 25 points and grants Haste I and Luck I.",
+  "item.curiosabilityaddon.treasure_charm": "Treasure Charm",
+  "tooltip.curiosabilityaddon.treasure_charm": "While equipped, boosts double drops and free enchant chances by 25 points and grants Luck II.",
+  "item.curiosabilityaddon.vitality_charm": "Vitality Charm",
+  "tooltip.curiosabilityaddon.vitality_charm": "While equipped, grants Regeneration I and Resistance I.",
+  "item.curiosabilityaddon.agility_charm": "Agility Charm",
+  "tooltip.curiosabilityaddon.agility_charm": "While equipped, grants Speed II and Jump Boost I.",
+  "curios.identifier.ability_enhancer": "Ability Enhancer"
+}
